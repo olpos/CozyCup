@@ -8,4 +8,4 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 - Interactive navigation bar
 - Photo gallery of cafe and products
 - Contact form for customer inquiries
-- Embedded Google Map location
+  
