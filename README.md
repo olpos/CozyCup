@@ -22,4 +22,15 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 
 ![About Us Page](https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/ABOUT%20US.png)
 *OUR STORY*
+
+## About the Authors
+<img src="https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/brix.jpg" width="150" style="border-radius:50%">
+
+**Name**: JASPER BRIX C. OLPOS  
+**Email**: 202180205@psu.palawan.edu.ph
+
+<img src="https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/kurt.jpg" width="150" style="border-radius:50%">
+
+**Name**: KURT KEVIN TIZON  
+**Email**: 20218205@psu.palawan.edu.ph
   
