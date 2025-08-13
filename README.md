@@ -12,10 +12,10 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 
 ## Screen Captures
 ![Home Page](https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/welcomepage.png)
-*HOME PAGE WITH WELCOME MESSAGE.*
+*HOME PAGE WITH WELCOME MESSAGE*
 
 ![Home Page](https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/coffeeMenu.png)
-*COFFEE MENU.*
+*COFFEE MENU*
 
 
   
