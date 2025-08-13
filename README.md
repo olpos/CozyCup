@@ -42,7 +42,7 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 
 **kurt Kevin**
 
-[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://facebook.com/kurtkevin)
+[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://www.facebook.com/kurtkevin.tizon)
 
 [![GitHub](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg)](https://github.com/kurt-kevin)
 
