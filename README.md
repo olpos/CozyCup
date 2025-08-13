@@ -21,5 +21,5 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
 *PASTRY MENU*
 
 ![About Us Page](https://github.com/olpos/CozyCup/blob/main/cozycup-cafe-boilerplate/img/ABOUT%20US.png)
-*ABOUT US PAGE*
+*OUR STORY*
   
