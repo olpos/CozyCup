@@ -37,7 +37,7 @@ Cozy Cup Cafe is a simple and visually appealing coffee shop website that showca
   # Social Media
 **Jasper Brix**
 
-[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://facebook.com/jasperBrix)
+[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Facebook_white.svg)](https://facebook.com/jasperbrix72)
 [![GitHub](https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Github_white.svg)](https://github.com/olpos)
 
 **kurt Kevin**
